@@ -11,8 +11,8 @@
   </a>
 </p>
 
-# API PHP NATIVO COMPLETA
-API REST em Python + Flask + PostgreSQL🚀
+# API REST PYTHON COM FLASK E POSTGRESQL
+API REST em Python + Flask + PostgreSQL 🚀
 
 ## Menu Geral
 <!--ts-->
