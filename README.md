@@ -106,6 +106,8 @@ Feito com ❤️ por Janes Cleston 👋🏽
 ## Estou aprendendo
 <a href="https://pt-br.reactjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://nodejs.org/en/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="50"/></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="50"/></a>
 <br /><br />
 
 ## Contatos
